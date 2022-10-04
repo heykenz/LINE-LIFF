@@ -1,0 +1,59 @@
+a {
+  color: white;
+}
+
+#userName {
+  color: black;
+}
+
+
+#welcomePage {
+  height: 100%;
+  width: 100%;
+  top: 35%;
+  text-align: center;
+}
+
+#liffappContent {
+  padding-left: 10px;
+}
+
+.nav-wrapper {
+  padding-left: 10px;
+  background-color: #d41b05;
+}
+
+.hidden {
+  display: none;
+}
+
+#welcomepage .welcome {
+  font-size: 20pt;
+  display: block;
+}
+
+img {
+  height: 200px;
+  width: auto;
+}
+
+#buttonNext {
+  margin-top: 15px;
+}
+
+#liffIdErrorMessage {
+  text-align: center;
+}
+
+.btn.btn-secondary {
+  margin-bottom: 10px;
+  background-color: #873600;
+}
+
+#liffIdKosong p{
+  text-align: center;
+}
+
+#liffIdErrorMessage ol {
+  list-style: none;
+}
